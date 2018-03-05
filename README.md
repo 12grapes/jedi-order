@@ -1,3 +1,7 @@
+<p align="left">
+  <img height="100px" src="https://bunch.ai/wp-content/themes/bunch/images/bunch-logo-rgb.svg" alt="Bunch" />
+</p>
+
 # Engineering Levels at Bunch ☄️🚀🌌
 
 At Bunch, we like space and movies like Star Wars (especially our CEO). So instead of your regular "Junior, Senior" positions, we go for slightly more original ones. That doesn't mean we take your growth lightly, just that we like having fun 😊
