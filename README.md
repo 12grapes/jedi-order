@@ -16,30 +16,29 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 ### Youngling (aka Intern)
 
-- Main programming language: R2D2 level
+- Main programming language: [R2D2, BB8 (Beginner)](#r2d2-bb8-beginner)
 - Secondary programming language: None 
-- Problem solving: Level 1+
+- Problem solving: [Level 1+](#problem-solving)
 - Impact & initiatives: Improve your own efficiency 
 - Ownership: involved in 1 area 
-- Culture background: Oreilly Model known 
+- Culture background: Know O'Reilly's Six dimensions model 
 - Customer Focus: Know our customers 
 
 ### Padawan (aka Junior Engineer)
 
-- Main programming language: Han Solo level
-- Secondary programming language: Young Anakin level
-- Problem solving: Level 3+
+- Main programming language: [Han Solo (Proficient)](#han-solo-proficient)
+- Secondary programming language: [Young Anakin (Hustler)](#young-anakin-hustler)
+- Problem solving: [Level 3+](#problem-solving)
 - Impact & initiatives: Improve the efficiency of the team 
 - Ownership: involved in 2 areas
 - Culture background: Read the O'Reilly Paper on Parsing Organizational Culture
 - Customer Focus: Intercom rotations & know our customers
 
-
 ### Jedi Knight (aka Engineer)
 
-- Main programming language: Luke Skywalker level
-- Secondary programming language: Han Solo level
-- Problem solving: Level 4+
+- Main programming language: [Luke Skywalker (Advanced)](#luke-skywalker-advanced)
+- Secondary programming language: [Han Solo (Proficient)](#han-solo-proficient)
+- Problem solving: [Level 4+](#problem-solving)
 - Impact & initiatives: Improve the efficiency of the whole Engineering team
 - Ownership: involved in 3 area 
 - Culture background: Oreilly Model + have read 10 key papers (HBR or others) 
@@ -47,9 +46,9 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 ### Jedi Master (aka Senior Engineer)
 
-- Main programming language: Yoda level
-- Secondary programming language: Luke Skywalker level
-- Problem solving: Level 5
+- Main programming language: [Master Yoda (Sensei)](#master-yoda-sensei)
+- Secondary programming language: [Luke Skywalker (Advanced)](#luke-skywalker-advanced)
+- Problem solving: [Level 5](#problem-solving)
 - Impact & initiatives: Improve the efficiency of the whole Company 
 - Ownership: Own 1 area, involved in 3 others 
 - Culture background: Oreilly Model + have read 10 most key papers (HBR or others) + contribute to the DB proactively 
