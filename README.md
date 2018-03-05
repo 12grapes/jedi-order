@@ -1,6 +1,6 @@
 # Engineering Levels at Bunch ☄️🚀🌌
 
-At Bunch, we like space and movies like Star Wars (especially our CEO). So instead your regular "Junior, Senior" positions, we go for slightly more original ones. That doesn't mean we take your growth lightly, just that like having fun 😊
+At Bunch, we like space and movies like Star Wars (especially our CEO). So instead of your regular "Junior, Senior" positions, we go for slightly more original ones. That doesn't mean we take your growth lightly, just that we like having fun 😊
 
 ## The Jedi Order
 
@@ -129,7 +129,7 @@ For each programming language that you know, you can be:
 
 ### Problem Solving
 
-The definition of problem solving comes from this great [blog post](https://be.helpful.com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f) from Daniel Debow. It presents a pyramid of how can you be most helpful. I summarized his article below for conciseness, however I would recommend you have a read, the examples he shares are very insightful.
+The definition of problem solving comes from this great [blog post](https://be.helpful.com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f) from Daniel Debow. It presents a pyramid of how can you be most helpful. I summarized his article below for conciseness, however I would recommend you to have a read, the examples he shares are very insightful.
 
 <p align="center">
   <img height="350px" src="https://cdn-images-1.medium.com/max/1600/1*iNw7MRrlKYujvAljRr2Q9A.png" />
