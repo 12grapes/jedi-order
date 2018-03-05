@@ -58,7 +58,7 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 Because, who doesn't like tables? 😅
 
-| Rank | [Tech Skills (Main/Secondary)](tech-skills) | [Problem Solving](#problem-solving) | Impact & Initiatives | Ownership | Culture background | Customer focus |
+| Rank | [Tech Skills (Main/Secondary)](#tech-skills) | [Problem Solving](#problem-solving) | Impact & Initiatives | Ownership | Culture background | Customer focus |
 |------|----------------------------------------|-----------------|----------------------|-----------|--------------------|----------------|
 | Youngling | [R2D2](#r2d2-beginner) / None | Level 1+ | Improve yourself | Involved in 1 area | Know the O'Reilly model | Know our Customers | 
 | Padawan | [Han Solo](#han-solo-proficient) / [Young Anakin](#young-anakin-hustler) | Level 3+ | Improve the team | Involved in 2 areas | Read O'Reilly's whitepaper | Intercom rotation |
