@@ -8,7 +8,7 @@ At Bunch, we like space and movies like Star Wars (especially our CEO). So inste
 
 ## The Jedi Order
 
-To give you some background, here's manuscript of the Jedi Order, annotated by Yoda and Anakin themselves! 🤓 
+To give you some background, here's a manuscript of the Jedi Order, annotated by Yoda and Anakin themselves! 🤓 
 
 <p align="center">
   <img height="700px" src="https://i.stack.imgur.com/2vUPi.jpg" alt="Jedi Order" />
