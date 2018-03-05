@@ -16,7 +16,7 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 ### Youngling (aka Intern)
 
-- Main programming language: [R2D2, BB8 (Beginner)](#r2d2-bb8-beginner)
+- Main programming language: [R2D2 (Beginner)](#r2d2-beginner)
 - Secondary programming language: None 
 - Problem solving: [Level 1+](#problem-solving)
 - Impact & initiatives: Improve your own efficiency 
@@ -54,22 +54,22 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 - Culture background: Oreilly Model + have read 10 most key papers (HBR or others) + contribute to the DB proactively 
 - Customer Focus: Intercom rotations, know our customers and contribute to the knowledge base
 
-### Recap table
+### Recap table (TL;DR)
 
 Because, who doesn't like tables? 😅
 
 | Rank | Tech Skills (Main / Secondary) | Problem Solving | Impact & Initiatives | Ownership | Culture background | Customer focus |
 |------|----------------------------------------|-----------------|----------------------|-----------|--------------------|----------------|
-| Youngling | R2D2 / None | Level 1+ | Improve yourself | 1 area | Know the O'Reilly model | Know our Customers | 
-| Padawan | Han Solo / Young Anakin | Level 3+ | Improve the team | 2 areas | Read O'Reilly's whitepaper | Intercom rotation |
-| Jedi Knight | Luke Skywalker / Han Solo | Level 4+ | Improve the Engineering team | 3 areas | Read 10+ culture whitepapers | Contribue to the knowledge base  |
-| Jedi Master | Yoda / Han Solo | Level 5 | Improve the Company | Own 1, involved in 3 other areas | Contribute to the whitepapers Database | Same as previous  | 
+| Youngling | [R2D2](#r2d2-beginner) / None | Level 1+ | Improve yourself | Involved in 1 area | Know the O'Reilly model | Know our Customers | 
+| Padawan | [Han Solo](#han-solo-proficient) / [Young Anakin](#young-anakin-hustler) | Level 3+ | Improve the team | Involved in 2 areas | Read O'Reilly's whitepaper | Intercom rotation |
+| Jedi Knight | [Luke Skywalker](#luke-skywalker-advanced) / [Han Solo](#han-solo-proficient) | Level 4+ | Improve the Engineering team | Involved in 3 areas | Read 10+ culture whitepapers | Contribue to the knowledge base  |
+| Jedi Master | [Master Yoda](#master-yoda-sensei) / [Han Solo](#han-solo-proficient) | Level 5 | Improve the Company | Own 1, involved in 3 other areas | Contribute to the whitepapers Database | Same as previous  | 
 
 ## In more details
 
 Here's what each of these criterias mean, in more details:
 
-- **Ownership** is what you are involved in. It can include typical things such as Backend, Frontend, to more "out of your role" topics, such as Growth, BI, Recruitment and so on.
+- **Ownership** is what you are involved in. It can include typical things such as Backend or Frontend, to more "out of your role" topics, such as Growth, BI, Recruitment and so on.
 
 - **Culture backgorund** is to ensure that every Engineer at Bunch has knowledge on the science we use to build our product. We are not working on a simple Domain, and understanding it will make every engineer at Bunch more impactful.
 
@@ -83,7 +83,7 @@ Here's what each of these criterias mean, in more details:
 
 For each programming language that you know, you can be:
 
-#### R2D2, BB8 (Beginner)
+#### R2D2 (Beginner)
 
 - Know the standard language libraries 
 - Be able to create Basic Programs/web pages/scripts 
@@ -128,7 +128,7 @@ For each programming language that you know, you can be:
 
 ### Problem Solving
 
-The definition of problem solving comes from this great [blog post](https://be.helpful.com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f) from Daniel Debow. It presents a pyramid of how can you be most helpful. I summarized his article below for conciseness, however I would recommend you to have a read, the examples he shares are very insightful.
+The definition of problem solving comes from this great [blog post](https://be.helpful.com/how-to-be-an-effective-early-stage-employee-hint-be-helpful-e681b456a01f) from Daniel Debow. It presents a pyramid of how can you be most helpful in your ownership areas. I summarized his article below for conciseness, however I would recommend you to have a read, the examples he shares are very insightful.
 
 <p align="center">
   <img height="350px" src="https://cdn-images-1.medium.com/max/1600/1*iNw7MRrlKYujvAljRr2Q9A.png" />
