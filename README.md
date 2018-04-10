@@ -16,7 +16,7 @@ To give you some background, here's a manuscript of the Jedi Order, annotated by
 
 ### How this fits into Bunch
 
-We follow a similar structure to help people move up in the Jedi Order at Bunch. We want to be as transparent as possible with eveyrone, and would love to get your feedback even if you're not planning on joining us (just open a Pull Request 🎁). You can find more details on what each of these criterias mean [below](#in-more-details).
+We follow a similar structure to help people move up in the Jedi Order at Bunch. We want to be as transparent as possible with everyone, and would love to get your feedback even if you're not planning on joining us (just open a Pull Request 🎁). You can find more details on what each of these criterias mean [below](#in-more-details).
 
 ### Youngling (aka Intern)
 
