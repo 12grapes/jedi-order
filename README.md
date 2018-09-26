@@ -22,8 +22,8 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 - Main programming language: [R2D2 (Beginner)](#r2d2-beginner)
 - Secondary programming language: None 
-- Problem solving: [Level 1+](#problem-solving)
-- Impact & initiatives: Improve your own efficiency 
+- Problem solving and initiative: [Level 1+](#problem-solving)
+- Impact & efficiency: Improve your own efficiency 
 - Ownership: involved in 1 area 
 - Culture background: Know O'Reilly's Six dimensions model 
 - Customer Focus: Know our customers 
@@ -32,8 +32,8 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 - Main programming language: [Han Solo (Proficient)](#han-solo-proficient)
 - Secondary programming language: [Young Anakin (Hustler)](#young-anakin-hustler)
-- Problem solving: [Level 3+](#problem-solving)
-- Impact & initiatives: Improve the efficiency of the team 
+- Problem solving and initiative: [Level 3+](#problem-solving)
+- Impact & efficiency: Improve the efficiency of the team 
 - Ownership: involved in 2 areas
 - Culture background: Read the O'Reilly Paper on Parsing Organizational Culture
 - Customer Focus: Intercom rotations & know our customers
@@ -42,46 +42,48 @@ We follow a similar structure to help people move up in the Jedi Order at Bunch.
 
 - Main programming language: [Luke Skywalker (Advanced)](#luke-skywalker-advanced)
 - Secondary programming language: [Han Solo (Proficient)](#han-solo-proficient)
-- Problem solving: [Level 4+](#problem-solving)
-- Impact & initiatives: Improve the efficiency of the whole Engineering team
+- Problem solving and initiative: [Level 4+](#problem-solving)
+- Impact & efficiency: Improve the efficiency of the whole Engineering team
 - Ownership: involved in 3 area 
 - Culture background: Oreilly Model + have read 10 key papers (HBR or others) 
-- Customer Focus: Intercom rotations, know our customers and contribue to the knowledge base 
+- Customer Focus: Intercom rotations, know our customers and be involved in UX (doing interviews, etc.)
 
 ### Jedi Master (aka Senior Engineer)
 
 - Main programming language: [Master Yoda (Sensei)](#master-yoda-sensei)
 - Secondary programming language: [Luke Skywalker (Advanced)](#luke-skywalker-advanced)
-- Problem solving: [Level 5](#problem-solving)
-- Impact & initiatives: Improve the efficiency of the whole Company 
+- Problem solving and initiative: [Level 5](#problem-solving)
+- Impact & efficiency: Improve the efficiency of the whole Company 
 - Ownership: Own 1 area, involved in 3 others 
 - Culture background: Oreilly Model + have read 10 most key papers (HBR or others) + contribute to the DB proactively 
-- Customer Focus: Intercom rotations, know our customers and contribute to the knowledge base
+- Customer Focus: All of the previous, and in addition, take initiatives on customer research, such as doing interviews in groups around you to proactively collect feedback and different point of views, then share them with the team
 
 ### Recap table (TL;DR)
 
 Because, who doesn't like tables? 😅
 
-| Rank | [Tech Skills (Main/Secondary)](#tech-skills) | [Problem Solving](#problem-solving) | Impact & Initiatives | Ownership | Culture background | Customer focus |
+| Rank | [Tech Skills (Main/Secondary)](#tech-skills) | [Problem Solving](#problem-solving) | Impact & efficiency | Ownership | Culture background | Customer focus |
 |------|----------------------------------------|-----------------|----------------------|-----------|--------------------|----------------|
 | Youngling | [R2D2](#r2d2-beginner) / None | Level 1+ | Improve yourself | Involved in 1 area | Know the O'Reilly model | Know our Customers | 
 | Padawan | [Han Solo](#han-solo-proficient) / [Young Anakin](#young-anakin-hustler) | Level 3+ | Improve the team | Involved in 2 areas | Read O'Reilly's whitepaper | Intercom rotation |
-| Jedi Knight | [Luke Skywalker](#luke-skywalker-advanced) / [Han Solo](#han-solo-proficient) | Level 4+ | Improve the Engineering team | Involved in 3 areas | Read 10+ culture whitepapers | Contribue to the knowledge base  |
-| Jedi Master | [Master Yoda](#master-yoda-sensei) / [Han Solo](#han-solo-proficient) | Level 5 | Improve the Company | Own 1, involved in 3 other areas | Contribute to the whitepapers Database | Same as previous  | 
+| Jedi Knight | [Luke Skywalker](#luke-skywalker-advanced) / [Han Solo](#han-solo-proficient) | Level 4+ | Improve the Engineering team | Involved in 3 areas | Read 10+ culture whitepapers | Be involved in UX  |
+| Jedi Master | [Master Yoda](#master-yoda-sensei) / [Han Solo](#han-solo-proficient) | Level 5 | Improve the Company | Own 1, involved in 3 other areas | Contribute to the whitepapers Database | Take initiatives on customer research  | 
 
 ## In more details
 
 Here's what each of these criterias mean, in more details:
 
-- **Ownership** is what you are involved in. It can include typical things such as Backend or Frontend, to more "out of your role" topics, such as Growth, BI, Recruitment and so on.
-
 - **Culture backgorund** is to ensure that every Engineer at Bunch has knowledge on the science we use to build our product. We are not working on a simple Domain, and understanding it will make every engineer at Bunch more impactful.
 
 - **Customer-orientation** (one of the dimensions of the O'Reilly model) is the main focus of Bunch. We want everyone in the team to know and feel what our customers need in order to delight them.
 
+- **Ownership** is what you are involved in. It can include typical things such as Backend or Frontend, to more "out of your role" topics, such as Growth, BI, Recruitment and so on.
+
 - **Tech skills** are related to programming languages, and you can find a more complete description [right beneath](#tech-skills).
 
-- **Problem solving** is one way to know how helpful your are to the whole organization, we go in further details [here](#problem-solving).
+- **Problem solving and initiatives** is one way to know how helpful your are to the whole organization, we go in further details [here](#problem-solving).
+
+- **Impact and Efficiency** is where Problem solving skills come together with ownership: it is your ability to identify issues around you and take the initiative to fix them in order to improve the overall efficiency (either of yourself, or others)
 
 ### Tech skills
 
